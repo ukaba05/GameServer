@@ -26,6 +26,6 @@ server.post("/getRank", async (req, res) => {
       res.send("Score posted successfully");
  });
  
-server.listen(() =>{
+server.listen(80, () =>{
   console.log("Server is running");
 });
