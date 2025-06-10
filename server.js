@@ -2,7 +2,7 @@ var express = require("express");
 var server = express();
 
 var bodyParser = require("body-parser");
-server.use(express.static(__dirname + "/public/Dodge"));
+server.use(express.static(__dirname + "/public"));
 server.use(bodyParser.urlencoded({extended:true}));
 server.use(bodyParser.json());
 
@@ -26,6 +26,6 @@ server.post("/getRank", async (req, res) => {
       res.send("Score posted successfully");
  });
  
-server.listen(80, () =>{
+server.listen(8080, () =>{
   console.log("Server is running");
 });
