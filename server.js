@@ -26,6 +26,6 @@ server.post("/getRank", async (req, res) => {
       res.send("Score posted successfully");
  });
  
-server.listen(8080, () =>{
-  console.log("Server is running on port 80");
+server.listen(() =>{
+  console.log("Server is running");
 });
