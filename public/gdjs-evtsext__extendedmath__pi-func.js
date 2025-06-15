@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__ExtendedMath__Pi !== "undefined") {
 gdjs.evtsExt__ExtendedMath__Pi = {};
 
 
-gdjs.evtsExt__ExtendedMath__Pi.userFunc0xffa468 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__ExtendedMath__Pi.userFunc0xfe6898 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = Math.PI;
 };
@@ -17,7 +17,7 @@ gdjs.evtsExt__ExtendedMath__Pi.eventsList0 = function(runtimeScene, eventsFuncti
 {
 
 
-gdjs.evtsExt__ExtendedMath__Pi.userFunc0xffa468(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ExtendedMath__Pi.userFunc0xfe6898(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__ExtendedMath__Factorial !== "undefined") {
 gdjs.evtsExt__ExtendedMath__Factorial = {};
 
 
-gdjs.evtsExt__ExtendedMath__Factorial.userFunc0xff43e0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__ExtendedMath__Factorial.userFunc0xb0c040 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 function factorial(n) {
     let result = 1;
@@ -30,7 +30,7 @@ gdjs.evtsExt__ExtendedMath__Factorial.eventsList0 = function(runtimeScene, event
 {
 
 
-gdjs.evtsExt__ExtendedMath__Factorial.userFunc0xff43e0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ExtendedMath__Factorial.userFunc0xb0c040(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

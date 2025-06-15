@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__ExtendedMath__PolarToCartesianY !== "undefined") {
 gdjs.evtsExt__ExtendedMath__PolarToCartesianY = {};
 
 
-gdjs.evtsExt__ExtendedMath__PolarToCartesianY.userFunc0xff65d0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__ExtendedMath__PolarToCartesianY.userFunc0xb06570 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const r = eventsFunctionContext.getArgument("r");
 const theta = eventsFunctionContext.getArgument("theta");
@@ -20,7 +20,7 @@ gdjs.evtsExt__ExtendedMath__PolarToCartesianY.eventsList0 = function(runtimeScen
 {
 
 
-gdjs.evtsExt__ExtendedMath__PolarToCartesianY.userFunc0xff65d0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ExtendedMath__PolarToCartesianY.userFunc0xb06570(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__ExtendedMath__QuarterPi !== "undefined") {
 gdjs.evtsExt__ExtendedMath__QuarterPi = {};
 
 
-gdjs.evtsExt__ExtendedMath__QuarterPi.userFunc0x1002db0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__ExtendedMath__QuarterPi.userFunc0xfe6898 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue = Math.PI / 4;
 };
@@ -17,7 +17,7 @@ gdjs.evtsExt__ExtendedMath__QuarterPi.eventsList0 = function(runtimeScene, event
 {
 
 
-gdjs.evtsExt__ExtendedMath__QuarterPi.userFunc0x1002db0(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ExtendedMath__QuarterPi.userFunc0xfe6898(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

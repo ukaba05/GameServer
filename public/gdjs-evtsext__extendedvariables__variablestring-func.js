@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__ExtendedVariables__VariableString !== "undefined") {
 gdjs.evtsExt__ExtendedVariables__VariableString = {};
 
 
-gdjs.evtsExt__ExtendedVariables__VariableString.userFunc0x11f2f58 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__ExtendedVariables__VariableString.userFunc0x11f0168 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const sceneVariables = runtimeScene.getVariables();
 const variableExist = sceneVariables.has(eventsFunctionContext.getArgument("SceneVariableName"));
@@ -22,7 +22,7 @@ gdjs.evtsExt__ExtendedVariables__VariableString.eventsList0 = function(runtimeSc
 {
 
 
-gdjs.evtsExt__ExtendedVariables__VariableString.userFunc0x11f2f58(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ExtendedVariables__VariableString.userFunc0x11f0168(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

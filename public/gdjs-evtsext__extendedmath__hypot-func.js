@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__ExtendedMath__Hypot !== "undefined") {
 gdjs.evtsExt__ExtendedMath__Hypot = {};
 
 
-gdjs.evtsExt__ExtendedMath__Hypot.userFunc0xff1270 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__ExtendedMath__Hypot.userFunc0xb0db10 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const a = eventsFunctionContext.getArgument("a");
 const b = eventsFunctionContext.getArgument("b");
@@ -20,7 +20,7 @@ gdjs.evtsExt__ExtendedMath__Hypot.eventsList0 = function(runtimeScene, eventsFun
 {
 
 
-gdjs.evtsExt__ExtendedMath__Hypot.userFunc0xff1270(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ExtendedMath__Hypot.userFunc0xb0db10(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
